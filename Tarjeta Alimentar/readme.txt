@@ -1,7 +1,7 @@
 Los datos utilizados son sobre la tarjeta alimentar entre los años 2021 y 2022. 
 
 Estos fueron extraidos de la pagina oficial del gobierno nacional:
-(Descargarlo antes de ejecutar debido al gran tamaño del archivo, no es posible subirlo al repositorio)
+(Descargarlo antes de ejecutar, debido al gran tamaño del archivo no es posible subirlo al repositorio)
 https://datos.gob.ar/dataset/desarrollo-social-titulares-prestacion-alimentar/archivo/desarrollo-social_7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1
 
 
